@@ -8,6 +8,14 @@
     <Title>C^3</Title>
     <AssemblyVersion>1.0.0.1</AssemblyVersion>
     <FileVersion>1.0.0.1</FileVersion>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/TeaFaris/C3</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/TeaFaris/C3</PackageProjectUrl>
+    <Description>Addition to C#</Description>
+    <Authors>TeaFaris</Authors>
+    <AnalysisLevel>none</AnalysisLevel>
+    <IncludeSymbols>True</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   </PropertyGroup>
 
 </Project>
