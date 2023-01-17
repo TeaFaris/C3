@@ -16,6 +16,7 @@
     <AnalysisLevel>none</AnalysisLevel>
     <IncludeSymbols>True</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <Version>$(AssemblyVersion)</Version>
   </PropertyGroup>
 
 </Project>
