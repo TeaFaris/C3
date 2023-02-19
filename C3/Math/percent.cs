@@ -223,6 +223,11 @@ namespace C3.Math
 
         public static int operator +(int Left, percent Right) => Left + Left * Right;
 
+        /// <summary>
+        /// Gets percent value and clamps from 0.0f to 1f
+        /// </summary>
+        public static float operator ~(percent Value) => (float)(Value / 100f);
+
         public static implicit operator percent(Decimal Value) => new percent(Value);
 
         public static implicit operator percent(double Value) => Parse(Value);
