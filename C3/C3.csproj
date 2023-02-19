@@ -6,8 +6,8 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>C^3</Title>
-    <AssemblyVersion>1.0.0.3</AssemblyVersion>
-    <FileVersion>1.0.0.3</FileVersion>
+    <AssemblyVersion>1.0.0.4</AssemblyVersion>
+    <FileVersion>1.0.0.4</FileVersion>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/TeaFaris/C3</RepositoryUrl>
     <PackageProjectUrl>https://github.com/TeaFaris/C3</PackageProjectUrl>
